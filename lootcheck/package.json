@@ -35,7 +35,7 @@
     "enzyme-adapter-react-16": "^1.15.1",
     "fetch-mock": "^8.0.0",
     "jest-cli": "^23.6.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-test-renderer": "^16.11.0",
